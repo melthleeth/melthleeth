@@ -7,6 +7,10 @@
 - ⚡ Fun fact:  I started climbing since 2020.06
 - 📫 How to reach me: [hichjay@gmail.com](hichjay@gmail.com)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={melthleeth})](https://solved.ac/{melthleeth})
+
+
 # Featured Projects
 
 ## [CORC](https://github.com/melthleeth/CORC)
