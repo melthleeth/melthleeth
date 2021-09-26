@@ -15,7 +15,7 @@
 
 # Featured Projects
 
-## [CORC](https://github.com/melthleeth/CORC)
+## [코르크 (CORC, CORporation Card)](https://github.com/melthleeth/corc-admin)
 - 기간: 2021.04 - 2021.05
 - 기술 스택: React, CSS Module
 - 역할: 팀장 (PM), 프론트엔드 개발, 디자인
