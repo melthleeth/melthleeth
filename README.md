@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1CF,100:FF7DA4&height=225&section=header&text=💗melthleeth&fontColor=fff&fontSize=80&fontAlign=67&fontAlignY=41&desc=Frontend-Engineer&descSize=20&descAlign=87&descAlignY=59)
 
-
   
 - 💗 I’m currently finding a job as an `entry-level` frontend engineer
 - 🌱 I’m studying <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> and <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -91,8 +90,5 @@
 
 </br></br></br></br>
   
-<p style="text-aigin:center;">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelthleeth&count_bg=%235E5558&title_bg=%23FF5E9A&icon=&icon_color=%23F5ACAC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235E5558&title_bg=%23FF5E9A&icon=&icon_color=%23F5ACAC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</p>
