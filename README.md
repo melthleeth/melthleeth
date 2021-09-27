@@ -1,16 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1CF,100:FF7DA4&height=225&section=header&text=💗melthleeth&fontColor=fff&fontSize=80&fontAlign=67&fontAlignY=41&desc=Frontend-Engineer&descSize=20&descAlign=87&descAlignY=59)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1CF,100:FF7DA4&height=225&section=header&text=💗Hyejin%20Lee&fontColor=fff&fontSize=76&fontAlign=69&fontAlignY=41&desc=Frontend-Engineer&descSize=20&descAlign=87&descAlignY=59)
 
   
-- 💗 I’m currently finding a job as an `entry-level` frontend engineer
-- 🌱 I’m studying <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> and <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+- 💗 `Entry-Level` / `Junior` frontend engineer
+- 🌱 Learning <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> and <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 - 😄 I am: `🔍Detail-oriented`, `👩‍💻Hard-worker`, `✨Passionate` and `🎨Creative`
 - ⚡ Fun fact:  I started climbing since 2020.06
-- 📫 How to reach me: [hichjay@gmail.com](hichjay@gmail.com)
+- 📫 [hichjay@gmail.com](hichjay@gmail.com)
 
 - ### [Backjoon Online Judge](https://www.acmicpc.net/) Rank
 
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=melthleeth)](https://solved.ac/melthleeth)
+
+# Tech Stacks I Used in My Projects
+
+|Field|Tech Stacks|
+|--|--|
+| Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> |
+| Backend | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> |
+| DB | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> |
+| Design | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> |
+| Cooperation | <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/> |
 
 
 # Featured Projects
@@ -84,15 +94,6 @@
   - Projects ranked 1st, 2nd place in the class
 - Konkuk University (graduated in 2020.08)
 
-# Tech Stacks I Used in My Projects
-
-|Field|Tech Stacks|
-|--|--|
-| Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> |
-| Backend | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> |
-| DB | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> |
-| Design | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> |
-| Cooperation | <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/> |
 
 </br></br></br></br>
   
