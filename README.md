@@ -7,6 +7,12 @@
 - ⚡ Fun fact:  I started climbing since 2020.06
 - 📫 [hichjay@gmail.com](hichjay@gmail.com)
 
+# Work Experience
+- `2022.02~`: SSG.COM frontend developer intern
+
+
+# Activities
+
 ### [Backjoon Online Judge](https://www.acmicpc.net/) Rank 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=melthleeth)](https://solved.ac/melthleeth)
@@ -25,6 +31,7 @@
 | Design | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> |
 | Cooperation | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/> |
 
+<!--
 # Featured Projects
 
 ## [코르크 (CORC, CORporation Card)](https://github.com/melthleeth/corc-admin)
@@ -98,6 +105,8 @@
 
 
 </br></br></br></br>
+
+-->
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelthleeth&count_bg=%235E5558&title_bg=%23FF5E9A&icon=&icon_color=%23F5ACAC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
