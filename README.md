@@ -21,6 +21,8 @@
 
 ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=melthleeth&show_icons=true&icon_color=FFD1CF&text_color=484647&title_color=FF7DA4&custom_title=Github%20Status) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melthleeth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--
 # Tech Stacks I Used in My Projects
 
 |Field|Tech Stacks|
@@ -31,7 +33,6 @@
 | Design | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> |
 | Cooperation | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/> |
 
-<!--
 # Featured Projects
 
 ## [코르크 (CORC, CORporation Card)](https://github.com/melthleeth/corc-admin)
