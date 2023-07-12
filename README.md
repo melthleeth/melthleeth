@@ -8,8 +8,7 @@
 - 📫 [hichjay@gmail.com](hichjay@gmail.com)
 
 # Work Experience
-- `2022.02`: SSG.COM frontend developer intern
-- `2022.03 ~`: SSG.COM frontend developer (`full-time`)
+- `2022.03 ~`: SSG.COM full-time FE developer
 
 
 # Activities
